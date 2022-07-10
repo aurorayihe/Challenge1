@@ -9,6 +9,6 @@ In this project, I changed codes in the following ways:
 * Added comments to css file.
 
 ## Project Outcome Preview
-![image](https://github.com/aurorayihe/Challenge1_JW/blob/main/Develop/assets/images/preview.jpg)
+![image](assets/images/preview.jpg)
 
-[Visit my website CLICK here](https://aurorayihe.github.io/Challenge1_JW/)
+[Visit my website CLICK here](https://aurorayihe.github.io/Challenge1/)
